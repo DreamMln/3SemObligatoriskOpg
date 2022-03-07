@@ -1,0 +1,19 @@
+h1{
+    text-shadow: 2px 1px #ffffff;
+}
+
+div.StyleBox{
+    background-color: #fff387; 
+}
+
+div.StyleItem{
+
+    background: rgb(241, 240, 245);
+    background: linear-gradient(90deg, rgb(244, 243, 248) 0%, 
+    rgb(239, 243, 166) 35%, rgb(255, 255, 255) 100%);
+}
+
+div.StyleFooter{
+    background-color: #fff387; 
+
+}
